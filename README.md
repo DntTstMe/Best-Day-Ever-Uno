@@ -1,4 +1,4 @@
-# Best-Day-Ever-Uno
+# Horiseon Semantic Overhaul
 
 ## Description 
 This repository aids in the accessibility of a website.
@@ -14,13 +14,19 @@ This repository aids in the accessibility of a website.
 N/A
 
 ## Usage
-Use the navigation links to move to corresponding sections of the webpage.
+Use the navigation bar links to move to corresponding sections of the webpage.
 
 ## Credits
-The original code was supplied per the MSU bootcamp material assigned. I am not the original creator. 
+The original code was supplied per the MSU bootcamp material assigned. I am not the original creator. Image of screenshot provided by MSU bootcamp.
+
+https://www.freecodecamp.org/news/semantic-html-alternatives-to-using-divs/
+
+https://www.semrush.com/blog/semantic-html5-guide/
 
 ## License
 Please refer to the License in the repository. 
+
+
 
 
 

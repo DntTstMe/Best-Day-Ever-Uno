@@ -8,5 +8,19 @@ This repository aids in the accessibility of a website.
 *I learned that there are many semantic elements that help a code become more easily read by others. I also learned that making a code cleaner than when you recieved it is beneficial.
 *My project stands out because I made the website more accessible to everyone who uses it. 
 
+insert image here
+
+## Installation
+N/A
+
+## Usage
+Use the navigation links to move to corresponding sections of the webpage.
+
+## Credits
+The original code was supplied per the MSU bootcamp material assigned. I am not the original creator. 
+
+## License
+Please refer to the License in the repository. 
+
 
 
